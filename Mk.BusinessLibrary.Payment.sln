@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mk.BusinessLibrary.Payment", "Mk.BusinessLibrary.Payment\Mk.BusinessLibrary.Payment.csproj", "{782E990F-5E8C-4420-ABB6-CA050FFFCD50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mk.BusinessLibrary.Payment.Test", "Mk.BusinessLibrary.Payment.Test\Mk.BusinessLibrary.Payment.Test.csproj", "{1F2A5F70-6563-45FA-A698-21325F289FCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{782E990F-5E8C-4420-ABB6-CA050FFFCD50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782E990F-5E8C-4420-ABB6-CA050FFFCD50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782E990F-5E8C-4420-ABB6-CA050FFFCD50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782E990F-5E8C-4420-ABB6-CA050FFFCD50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2A5F70-6563-45FA-A698-21325F289FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2A5F70-6563-45FA-A698-21325F289FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2A5F70-6563-45FA-A698-21325F289FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2A5F70-6563-45FA-A698-21325F289FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6DDE736-27F5-49A7-A999-BCBC46967EB8}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://vs.mkcorp.com/tfs/upgradedcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Mk.BusinessLibrary.Payment\\Mk.BusinessLibrary.Payment.csproj
+		SccProjectName1 = Mk.BusinessLibrary.Payment
+		SccLocalPath1 = Mk.BusinessLibrary.Payment
+		SccProjectUniqueName2 = Mk.BusinessLibrary.Payment.Test\\Mk.BusinessLibrary.Payment.Test.csproj
+		SccProjectName2 = Mk.BusinessLibrary.Payment.Test
+		SccLocalPath2 = Mk.BusinessLibrary.Payment.Test
+	EndGlobalSection
+EndGlobal
